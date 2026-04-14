@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "ikatsarov-skills": {
+      "source": {
+        "source": "github",
+        "repo": "ikatsarov/claude-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "my-skills@ikatsarov-skills": true
+  }
+}
