@@ -1,0 +1,7 @@
+{
+  "name": "my-skills",
+  "description": "Personal development skills: commit, debug, review, pr, api, docker, explain, frontend, migrate, perf, refactor, sec-audit, test",
+  "author": {
+    "name": "Iliyan Katsarov"
+  }
+}

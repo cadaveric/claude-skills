@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ikatsarov-skills",
+  "description": "Personal Claude Code skills for Iliyan Katsarov",
+  "owner": {
+    "name": "Iliyan Katsarov"
+  },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "description": "Personal development skills: commit, debug, review, pr, api, docker, explain, frontend, migrate, perf, refactor, sec-audit, test",
+      "source": "./plugins/my-skills"
+    }
+  ]
+}
